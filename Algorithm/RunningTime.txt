@@ -1,0 +1,7 @@
+Order of the Complexity [ Slowest to fastest top to down ]
+
+0(n^2)   ==> Selection sort ==> bubble sort
+0(nlog n) ==> Merge sort 
+0(n)    ==> Linear Search 
+0(log n) ==> Binary Search 
+0(1)
